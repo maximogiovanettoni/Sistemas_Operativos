@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "initializer_list": "c",
+    "inode.h": "c",
+    "types.h": "c",
+    "superblock.h": "c"
+  }
+}
